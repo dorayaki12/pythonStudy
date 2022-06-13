@@ -1,5 +1,4 @@
-import os
-import sys
+# coding: utf-8
 
 from dataset.mnist import load_mnist
 
